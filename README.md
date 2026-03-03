@@ -1,16 +1,20 @@
-## Hi there 👋
+# Ketan Katore
 
-<!--
-**ketankatore/ketankatore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior JavaScript Engineer focused on real-time communication systems.
 
-Here are some ideas to get you started:
+## Primary Profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 https://github.com/Ketan-K  
+👉 https://ketan-k.github.io
+
+---
+
+## Tech Stack
+
+- WebRTC
+- Electron
+- Angular
+- React
+- Node.js
+- TypeScript
+- Distributed Systems
